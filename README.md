@@ -1,2 +1,2 @@
-# Guess_game
-Rust CLI Number guessing game
+# Guess game
+### Rust CLI Number guessing game
